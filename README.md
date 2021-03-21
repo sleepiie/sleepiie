@@ -6,7 +6,7 @@ i work on python projects here on private repositories.
 
 ```console
 * Minecraft clone
-* [Arctafox](https://github.com/arctafox)
+* (Arctafox)[https://github.com/arctafox]
 ```
 
 ## Previous projects
