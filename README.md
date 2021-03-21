@@ -2,14 +2,22 @@
 
 i work on python projects here on private repositories.
 
-## Currently working on
+## Languages 💻
+
+```console
+* Python
+* Javascript
+* HTML and CSS
+```
+
+## Currently working on 👾
 
 ```console
 * Minecraft clone
 * [Arctafox](https://github.com/arctafox)
 ```
 
-## Previous projects
+## Previous projects 🌌
 
 ```console
 * [simple-pip](https://github.com/sleepiie/simple-pip)
