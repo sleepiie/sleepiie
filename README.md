@@ -10,7 +10,7 @@ sleepiie@VM:~$ languages
 * Javascript
 * HTML and CSS
 
-sleepiie@VM:~$other_skills
+sleepiie@VM:~$ other-skills
 * Image editing
 ```
 
