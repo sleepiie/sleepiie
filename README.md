@@ -1,6 +1,6 @@
 # hello
 
-i work on python projects here on private repositories.
+i do some cool stuff. currently cookin up somethin cool. most of my work is in private repositories and not listed here.
 
 ## Portfolio 💻
 
