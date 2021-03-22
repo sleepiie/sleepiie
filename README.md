@@ -2,17 +2,22 @@
 
 i work on python projects here on private repositories.
 
-## Languages 💻
+## Portfolio 💻
 
 ```console
+# Languages
 * Python
 * Javascript
 * HTML and CSS
+
+# Other skills
+* Image editing
 ```
 
 ## Currently working on 👾
 
 ```console
+* Minecraft resource project
 * Minecraft clone
 * [Arctafox](https://github.com/arctafox)
 ```
