@@ -5,12 +5,12 @@ i work on python projects here on private repositories.
 ## Portfolio 💻
 
 ```console
-wirzka@VM:~$ languages
+sleepiie@VM:~$ languages
 * Python
 * Javascript
 * HTML and CSS
 
-wirzka@VM:~$other-skills
+sleepiie@VM:~$other_skills
 * Image editing
 ```
 
