@@ -2,6 +2,10 @@
 
 i do some cool stuff. currently cookin up somethin cool. most of my work is in private repositories and not listed here.
 
+## Stats 👀
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepiie&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Portfolio 💻
 
 ```console
