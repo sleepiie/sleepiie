@@ -1,7 +1,3 @@
-# hello
-
-i do some cool stuff. currently cookin up somethin cool. most of my work is in private repositories and not listed here.
-
 ## Stats 👀
 
 [![stats](https://github-readme-stats.vercel.app/api?username=sleepiie&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,16 +18,18 @@ sleepiie@VM:~$ other-skills
 ## Currently working on 👾
 
 ```console
-* Minecraft resource project
+* Markdown guide
+    * https://sleepiie.github.io/formatting
 * Minecraft clone
-* [Arctafox](https://github.com/arctafox)
 ```
 
 ## Previous projects 🌌
 
 ```console
-* [simple-pip](https://github.com/sleepiie/simple-pip)
-* [macNBT](https://github.com/sleepiie/macNBT)
+* simple-pip
+    * https://github.com/sleepiie/simple-pip
+* macNBT
+    * https://github.com/sleepiie/macNBT
 ```
 
 <!---
